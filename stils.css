@@ -1,0 +1,33 @@
+/*body {background-image: url("background.jpg");} šis ir fona paraugs*/
+body {background-image: url("background.jpg");}
+
+h1 {font-size: 28px;
+text-align: center;
+color:darkslateblue}
+
+p.teksts {font-size: 16px;
+    text-align: left;
+    color:rgb(74, 51, 54)}
+
+
+div {display: inline-block;
+    width:200px;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.bloks
+{display: inline-block;
+background: skyblue;
+width: 600px;
+height:150px;
+border: 2px solid orange;
+}
+
+.mazs
+{display: inline-block;
+background: rgb(213, 233, 241);
+width: 100px;
+height:100px;
+border: 2px;
+}
